@@ -1,0 +1,5 @@
+<!-- res/drawable/edit_text_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F8F8E8" /> <!-- Thay đổi màu nền ở đây -->
+    <corners android:radius="8dp"/> <!-- Tạo viền bo tròn nếu muốn -->
+</shape>
